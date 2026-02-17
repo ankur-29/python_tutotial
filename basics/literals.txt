@@ -1,0 +1,53 @@
+In Python, literals are fixed values written directly in your code.
+They represent constant data — not variables, not expressions — just actual values.
+
+Numeric Literals --> Used to represent numbers.
+================================================
+🔹 Integer
+x = 10
+y = -5
+z = 0
+
+🔹 Float (Decimal)
+pi = 3.14
+temp = -2.5
+
+🔹 Complex
+c = 3 + 4j
+
+String Literals ---> Text enclosed in quotes.
+==================================================
+name = "Ankur"
+message = 'Hello World'
+
+Multi-line String
+text = """This is
+a multi-line
+string"""
+
+Boolean Literals ---> Represent truth values.
+===================================================
+is_valid = True
+is_done = False
+
+Special Literal ---> Represents absence of value.
+=================================================
+🔹 None
+
+data = None
+
+Collection Literals ---> Python also allows literal syntax for collections.
+===========================================
+🔹 List Literal
+numbers = [1, 2, 3, 4]
+
+🔹 Tuple Literal
+coordinates = (10, 20)
+
+🔹 Dictionary Literal
+person = {"name": "Ankur", "age": 25}
+
+🔹 Set Literal
+unique_nums = {1, 2, 3}
+
+A literal is a raw value directly written in code.
